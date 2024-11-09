@@ -8,6 +8,6 @@
 
 ##### Note: Hi
 
-##### Name: Joeun
+##### Name: Joni Bug Fix
 
-##### Note: This is from workshop
+##### Note: This is from workshop - second try with branch
